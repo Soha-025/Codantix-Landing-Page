@@ -23,11 +23,27 @@ This project is part of my Codantix internship Task 5. The main goal was to buil
 ## Technologies Used
 
 - HTML5 & CSS3  
-- JavaScript (if React used, mention React.js)  
+- JavaScript  
 - CSS Flexbox/Grid for layout  
-- Optional: Bootstrap or other styling frameworks (if used)
+- React.js
 
 ---
 
-## Project Structure
+## 📂 Project Structure
+
+```
+codantix-landing-page/
+ ├── src/
+ │    ├── components/
+ │    │    ├── Card.css
+ │    │    ├── Card.jsx
+ |    |    ├── Service.css
+ │    │    └── Service.jxs
+ │    ├── App.js
+ │    └── index.js
+ └── package.json
+ └── package-lock.json
+ └── README
+
+```
 
