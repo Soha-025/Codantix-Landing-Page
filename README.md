@@ -1,4 +1,4 @@
-# Codantix Internship Task 5 - Landing Page with Services Section
+# Landing Page with Services Section
 
 ## Project Overview
 
@@ -6,7 +6,7 @@ This project is part of my Codantix internship Task 5. The main goal was to buil
 
 ---
 
-## Features
+## 💡 Features
 
 - **Services Section**  
   - Built with reusable Card components  
@@ -20,7 +20,7 @@ This project is part of my Codantix internship Task 5. The main goal was to buil
 
 ---
 
-## Technologies Used
+## ⚙️ Technologies Used
 
 - HTML5 & CSS3  
 - JavaScript  
