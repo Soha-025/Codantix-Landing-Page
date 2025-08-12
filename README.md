@@ -33,6 +33,10 @@ This project is part of my Codantix internship Task 5. The main goal was to buil
 
 ```
 codantix-landing-page/
+ ├── public/
+      ├──logo
+      ├── manifest
+      └── robots
  ├── src/
  │    ├── components/
  │    │    ├── Card.css
@@ -43,7 +47,31 @@ codantix-landing-page/
  │    └── index.js
  └── package.json
  └── package-lock.json
+ └── gitignore
  └── README
 
 ```
+## 🚀 How to Run
 
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/Soha-025/codantix-task-4.git
+   ```
+2. **Navigate to project folder**
+
+   ```bash
+   cd codantix-landing-page
+   ```
+3. **Install dependencies**
+
+   ```bash
+   npm install
+   ```
+4. **Start development server**
+
+   ```bash
+   npm start
+   ```
+   
+💡 *Built with ❤️ for Codantix Internship*
