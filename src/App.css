@@ -1,0 +1,13 @@
+.hero {
+  background-color: #282c34;
+  color: white;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+footer {
+  padding: 20px;
+  background-color: #111;
+  color: white;
+  text-align: center;
+}
